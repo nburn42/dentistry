@@ -1,0 +1,1970 @@
+#+STARTUP: overview
+#+TAGS: FREESIDE(f) T5(o) COMPUTER(c) PROJECT(p) READING(r) DVD(d) 
+#+STARTUP: hidestars
+* Straylight
+- [ ] Measure size needed for Maggie
+- [ ] get BOM
+* get bike
+* Thorium
+* NOW
+- [ ] Kevin Wallace - invite to Freeside
+- [ ] Harris - job
+- [ ] DDuck - where to meet to discuss apt
+- [ ] find data resetter
+- [X] paint screwdrivers
+  - [X] Green
+  - [X] Blue
+  - [X] White
+  - [X] - Nothing - 
+- [4/7] leather wallet
+  - [X] buy thread
+  - [X] print wallet pattern 
+  - [X] glue pattern to leather
+  - [X] cut leather
+  - [ ] put thread cuts in
+  - [ ] punch holes
+  - [ ] sew
+- [ ] talk with Joseph about classes
+- [9/17] cement mold for jello
+  - [X] figure out how to brace silicone mold
+  - [X] figure depth
+  - [X] make box
+  - [X] seal box edges with tape
+  - [X] pour in sand 
+  - [X] buy cement
+  - [X] mix cement
+  - [X] pour cement
+  - [X] let cure
+  - [ ] re-emplace
+  - [ ] mix cement
+  - [ ] pour cement
+  - [ ] let cure
+  - [ ] pull
+  - [ ] melt paraffin
+  - [ ] heat mold
+  - [ ] coat with paraffin
+- [-] make new one
+  - [X] buy white glue
+  - [X] glue silicone mold to something flat
+  - [X] make wall around it
+  - [ ] pour cement
+  - [ ] screed
+  - [ ] let cure
+  - [ ] turn over
+  - [ ] make new box
+  - [ ] consider desired lip
+  - [ ] mix concrete
+  - [ ] pour
+  - [ ] screed
+  - [ ] let cure
+  - [ ] pull
+- [X] draft Thorium letter
+* Better Tape Adapter
+- [X] buy poor adapter
+- [ ] get article on fixing
+- [ ] get parts and tools
+  - [ ] tape player (for play head)
+  - [ ] resistors
+  - [ ] solder
+  - [ ] capacitors 
+* Waiting
+** Carl Kirsch
+- [ ] Called 1 Aug
+** David Duckworth
+- [ ] where to meet
+** Google 
+** Freeside
+*** Members
+**** Anyone
+** Tech Talks
+*** Kirk
+- [X] response to 10 Jan msg
+- [ ] response to 28 Jan msg
+*** Dr. Circeo
+- [X] response to 10 Jan msg
+- [X] response to 18 Jan msg
+- [X] response to 28 Jan msg
+- [X] Lunch Tuesday GA Tech hotel 800 Spring Street
+*** Steve Carmichael
+- [ ] Budget
+- [ ] Students to execute
+- [ ] camera recommendation
+*** Curbob (in FS members)
+** Grant-seeking
+- [X] Take course on 25 January
+When: 6 PM
+Where: Adams Park Branch of APL
+2231 Campbellton Road, SW
+Atlanta, GA 30311 
+404.752.8763
+- [ ] Take course on 28 January
+Thursday, January 28, 2016
+133 Peachtree Street
+Georgia Pacific Building Lobby
+- [ ] Use database at Caitlin's
+- [ ] Contacts from Ward Morris
+- [ ] Help from Kristin
+** Andrew Lawson
+** Mark Saft
+- [ ] Pay
+- [ ] response to 18 Jan msg
+- [X] send CD's
+- [ ] send email
+** Craigslist
+- [X] Dell E520
+- [ ] chairs
+- [X] test kregslist
+- [ ] chairs on Craigslist
+- [-] welder
+  - [X] clean
+  - [X] inspect
+  - [ ] test
+  - [X] photograph
+  - [X] store
+  - [ ] craigslist
+  - [ ] sell
+- [ ] trampoline
+** MASS Collective
+- [ ] open house hours
+- [ ] educational and branding guidelines
+- [ ] response to courses I could teach
+- [X] response to who can allow use of 2d floor
+** Goat Farm
+- [ ] Response from guy who schedules venues
+** Maggie Kane
+- [X] neck strap
+- [ ] dimensions for straylight
+** Decatur Makers
+** Marnin
+- [ ] Talk with guy about energy - I sent outline on 1 Aug
+*** Thorium
+LFTR Liquid Flouride Thorium Reactors
+- Thorium is very abundant
+  - four times as common as Uranium (U is about as rare as silver)
+  - useful Th isotope is 40,000 times as abundant as useful U isotope
+  - no isotopic isolation needed - the useful isotope of Th is the only one that occurs in nature 
+  - Th is present in the tailing byproduct of rare earths mining - currently waste requiring managed disposal
+  - enough available on this planet to power humanity at current load for o-o-o 10,000 years
+  - one mine in MI would produce enough for earth for a year as a byproduct 
+- Thorium is safe
+  - although officially readioactive, half-life is 14+ Billion years
+  - not particularly toxic
+- Molten Salt Strategy
+  - Uranium can be recovered from fule/heat transfer fluid simply, since UF6 has a low boiling point, and no Th Flourate has a low boiling point
+  - Molten salt heat transfer technique is much safer
+    - No need to pressurize heat transfer loop
+      - therefor no explosion hazard
+      - leak rather results in puddle on floor, which can be cleaned after salt re-freezes
+    - current practice is 70+ atm
+      - Carnot (H-L)/H
+    - Safety can be passive rather than active
+      - Salt plug strategy
+        - Plug cooled by locally powered system
+        - Loss of local power ends cooling of plug
+        - plug melts
+        - fuel / heat transfer fluid drains
+        - building can be designed so that fluid drains into containment
+        - avoids need for backup generators
+    - Fission products do not require fuel reprocessing (e.g., no deformation by Xenon)
+    - hot fission products can be left in fuel / heat-trasfer loop to burn usefully
+    - fission products that are useful can be chemically or mechanically isolated
+      - e.g., Bismuth 113, useful for radiological cancer therapy
+        - only grams available for use at present, but orders of magnitude more could be manufactured as byproduct
+    - Leak results in a drip on floor
+    - Reaction rate is homeostatic
+      - increased reaction rate ->
+      - increased temperatue ==
+      - decreased volume ==
+      - reduced reaction rate ->
+      - lowered temperature ->
+      - return to stable reaction rate
+  - Technology is proven
+    - Oak Ridge
+      - Aircraft Reactor Experiement (ARE)
+        - Critical 3 to 12 Nov 54 
+      - Molten Salt Reactor Experiement (MSRE)
+        - Critical 1 Jun 65 to Dec 69
+- Ancillary
+  - Other nuclear waste can be "burned"
+  - Some fission products are useful
+    - Rocket Fuel
+    - Bismuth
+- Business Cases
+  - Power generation business case
+    - $200 mm
+    - 5 years
+  - Radiomedicine business case
+    - $20 mm
+    - x years
+    - positive reception from regulatory regime
+- Other players are moving
+  - nations
+    - China
+    - India
+  -IP outside of US control
+    - IP holders could enjoy "rent"
+  - Pursuit of radiomedicine business
+    - lower capital cost
+    - friendly regulatory environment
+    - profitable
+    - can generate valuable IP
+** Nathan
+- [ ] contact medical buyers
+- [ ] check
+** Ram 
+* Housing
+- [ ] monitor waiting list
+- [X] contact houses again
+- [X] review Marnin place - bad neighborhood
+- [X] talk with David Duckworth - scheduled
+* Make Toolbags
+- [X] bring screwdrivers to Freeside
+- [X] count sets
+- [X] get paint
+- [X] mask drivers
+- [ ] mark sets with different colors of spray paint
+- [ ] figure size requirements
+- [ ] select material
+- [ ] prepare
+- [ ] sew 
+* Questionnaires
+- Would you like to take a class about
+  - Arduino
+  - soldering
+  - basic electronics
+  - intro to programming
+  - glowing clouds
+
+  - classical drawing
+  - sculpting
+  - painting with Bob
+  - calligraphy
+
+  - silk-screening
+  - tie dyeing
+  - making giant gummy bears
+  - making giant gummy eyeballs
+  - making flourescent gummy treats
+
+  - welding
+  - leatherworking
+  - pottery
+  - leather wallet
+
+  - lost styrofoam casting
+  - other
+  - tai chi
+  - planning a class
+* Classes
+** Introduction to Electronics and Arduino
+*** Title: Arduino 101
+*** Instructor: Jud Taylor
+*** Class Description
+***** Student will learn 
+****** basic electronics (resistors, LED's, DC power)
+****** use of prototyping board
+****** use of IDE
+****** introductory programming
+****** resources
+*** Benefits to Student
+***** Goal: Learn how to make an electronic device with an Arduino
+***** Subsidiary Goals:
+****** Learn about an IDE and how to use one
+****** Learn major parts of an Arduino
+****** Learn about resistors, LED's, switches, and buzzers
+****** Learn about programming (variables, functions, abstraction, logic)
+***** Deliverable (something they can take home) : Kit and a working gizmo
+*** Duration: 2.5 hours
+*** Fees
+**** Materials and Tool Fees: $30
+**** Instructor Fee: $30
+*** Requirements to schedule
+**** Age Limitations: 14 and up
+**** Tools student should have already: N/A
+**** Pre-requisite skills or courses: N/A
+**** Safety Plan
+***** MDS's for materials used: N/A
+***** Electrical Safety Plan: N/A
+**** Class Outline: (see presentation deck)
+** Introduction to Classical Drawing
+*** Name of Class
+*** Instructor: Joseph von Dortch
+*** Class Description
+***** Benefits to Student
+***** Training Goal
+***** Subsidiary Goals
+***** Deliverable (something they can take home)
+*** Duration
+*** Fees
+**** Materials and Tool Fees
+**** Instructor Fee
+*** Requirements to schedule
+**** Age Limitations
+**** Tools student should have already
+**** Pre-requisite skills or courses
+**** Safety Plan
+***** MDS's for materials used
+***** Electrical Safety Plan
+**** Class Outline
+
+** Intro to Wet-on-wet Painting
+*** Name of Class
+*** Instructor: Monica Kasson
+*** Class Description
+***** Benefits to Student
+***** Training Goal
+***** Subsidiary Goals
+***** Deliverable (something they can take home)
+*** Duration
+*** Fees
+**** Materials and Tool Fees
+**** Instructor Fee
+*** Requirements to schedule
+**** Age Limitations
+**** Tools student should have already
+**** Pre-requisite skills or courses
+**** Safety Plan
+***** MDS's for materials used
+***** Electrical Safety Plan
+**** Class Outline
+
+** Making Glowing Clouds
+*** Name of Class
+*** Instructor: Steve Sutton
+*** Class Description
+***** Benefits to Student
+***** Training Goal
+***** Subsidiary Goals
+***** Deliverable (something they can take home)
+*** Duration
+*** Fees
+**** Materials and Tool Fees
+**** Instructor Fee
+*** Requirements to schedule
+**** Age Limitations
+**** Tools student should have already
+**** Pre-requisite skills or courses
+**** Safety Plan
+***** MDS's for materials used
+***** Electrical Safety Plan
+**** Class Outline
+
+** Making Lichtenberg Figures
+*** Name of Class
+*** Instructor: Sean Kennedy
+*** Class Description
+***** Benefits to Student
+***** Training Goal
+***** Subsidiary Goals
+***** Deliverable (something they can take home)
+*** Duration
+*** Fees
+**** Materials and Tool Fees
+**** Instructor Fee
+*** Requirements to schedule
+**** Age Limitations
+**** Tools student should have already
+**** Pre-requisite skills or courses
+**** Safety Plan
+***** MDS's for materials used
+***** Electrical Safety Plan
+**** Class Outline
+
+** Intro to Sculpture
+*** Name of Class
+*** Instructor: Kevin Corum
+*** Class Description
+***** Benefits to Student
+***** Training Goal
+***** Subsidiary Goals
+***** Deliverable (something they can take home)
+*** Duration
+*** Fees
+**** Materials and Tool Fees
+**** Instructor Fee
+*** Requirements to schedule
+**** Age Limitations
+**** Tools student should have already
+**** Pre-requisite skills or courses
+**** Safety Plan
+***** MDS's for materials used
+***** Electrical Safety Plan
+**** Class Outline
+
+** MIG Welding
+*** Name of Class
+*** Instructor: Jonathan Popham
+*** Class Description
+***** Benefits to Student
+***** Training Goal
+***** Subsidiary Goals
+***** Deliverable (something they can take home)
+*** Duration
+*** Fees
+**** Materials and Tool Fees
+**** Instructor Fee
+*** Requirements to schedule
+**** Age Limitations
+**** Tools student should have already
+**** Pre-requisite skills or courses
+**** Safety Plan
+***** MDS's for materials used
+***** Electrical Safety Plan
+**** Class Outline
+** Leatherworking like making a holster
+*** Name of Class
+*** Instructor: Kali Wagner
+*** Class Description
+***** Benefits to Student
+***** Training Goal
+***** Subsidiary Goals
+***** Deliverable (something they can take home)
+*** Duration
+*** Fees
+**** Materials and Tool Fees
+**** Instructor Fee
+*** Requirements to schedule
+**** Age Limitations
+**** Tools student should have already
+**** Pre-requisite skills or courses
+**** Safety Plan
+***** MDS's for materials used
+***** Electrical Safety Plan
+**** Class Outline
+
+*
+
+** Intro to using Premiere Pro
+*** Premiere Pro 101
+*** Instructor: Maggie Kane, Jud Taylor
+*** Class Description
+***** Benefits to Student
+***** Training Goal
+***** Subsidiary Goals
+***** Deliverable (something they can take home)
+*** Duration
+*** Fees
+**** Materials and Tool Fees
+**** Instructor Fee
+*** Requirements to schedule
+**** Age Limitations
+**** Tools student should have already
+**** Pre-requisite skills or courses
+**** Safety Plan
+***** MDS's for materials used
+***** Electrical Safety Plan
+**** Class Outline
+
+*
+** -- Template -- subject (not name of class)
+*** Name of Class
+*** Instructor:
+*** Class Description
+***** Benefits to Student
+***** Training Goal
+***** Subsidiary Goals
+***** Deliverable (something they can take home)
+*** Duration
+*** Fees
+**** Materials and Tool Fees
+**** Instructor Fee
+*** Requirements to schedule
+**** Age Limitations
+**** Tools student should have already
+**** Pre-requisite skills or courses
+**** Safety Plan
+***** MDS's for materials used
+***** Electrical Safety Plan
+**** Class Outline
+
+*
+** -- Template -- subject (not name of class)
+*** Name of Class
+*** Instructor:
+*** Class Description
+***** Benefits to Student
+***** Training Goal
+***** Subsidiary Goals
+***** Deliverable (something they can take home)
+*** Duration
+*** Fees
+**** Materials and Tool Fees
+**** Instructor Fee
+*** Requirements to schedule
+**** Age Limitations
+**** Tools student should have already
+**** Pre-requisite skills or courses
+**** Safety Plan
+***** MDS's for materials used
+***** Electrical Safety Plan
+**** Class Outline
+
+*
+** -- Template -- subject (not name of class)
+*** Name of Class
+*** Instructor:
+*** Class Description
+***** Benefits to Student
+***** Training Goal
+***** Subsidiary Goals
+***** Deliverable (something they can take home)
+*** Duration
+*** Fees
+**** Materials and Tool Fees
+**** Instructor Fee
+*** Requirements to schedule
+**** Age Limitations
+**** Tools student should have already
+**** Pre-requisite skills or courses
+**** Safety Plan
+***** MDS's for materials used
+***** Electrical Safety Plan
+**** Class Outline
+
+*
+** -- Template -- subject (not name of class)
+*** Name of Class
+*** Instructor:
+*** Class Description
+***** Benefits to Student
+***** Training Goal
+***** Subsidiary Goals
+***** Deliverable (something they can take home)
+*** Duration
+*** Fees
+**** Materials and Tool Fees
+**** Instructor Fee
+*** Requirements to schedule
+**** Age Limitations
+**** Tools student should have already
+**** Pre-requisite skills or courses
+**** Safety Plan
+***** MDS's for materials used
+***** Electrical Safety Plan
+**** Class Outline
+
+*
+** Sculpture With Clay 101
+*** Kevin Corum
+Learn the basics of sculpting with clay.  When you learn how to do this, your life will be better because (physical skill, interesting knowledge, confidence, handy solutions to problems, make a form for a mask or other thing).  This will be great preparatory work for (Follow on classes or seminars).
+*** Freeside
+*** Saturday, 17 September 2016
+**** Noon to 1:30 PM
+**** Break
+**** 2:30 to 4 PM
+**** Class limited to 10
+**** $40 per attendee, not including materials (being calculated)
+
+**** Learn about tools, materialestis, and techniques for sculpting in clay
+
+**** Take home a beautiful object you will have created
+
+**** Learning Goals
+***** Overall Goals (if magic worked, by snapping your fingers, you could...)
+****** Be able to X
+
+***** Subsidiary Goals (since magic doesn't work, the skills and knowledge you need are...)
+****** Know A, B...
+****** Be able to Y, Z...
+***** Experiences you will have
+****** Do H, I...
+****** See M, N...
+****** Meet interesting people
+***** Physical Takeaway
+****** Object You Sculpted
+**** Requirements
+**** Tools Student will need
+***** a, b...
+**** Tools Freeside will provide
+***** c, d...
+**** Materials provided during class
+***** e, f...
+*** Hazardous Materials - NONE
+*** Attendee Parameters
+- Age 14 or older
+
+*** Email
+I would like to schedule an introductory class about sculpting with clay, as described below.
+Please schedule the class, or address points of concern, as soon as practical.
+** Intro to leatherworking
+*** Kali Wagner
+Learn the basics of leatherworking. When you learn how to do this, your life will be better because (physical skill, interesting knowledge, confidence, handy solutions to problems, make a wallet, leather fog, holster).  This will be great preparatory work for (Follow on classes or seminars).
+*** Freeside
+*** Date TBD
+**** Hours TBD
+**** Class limited to x
+**** $x per attendee, not including materials (being calculated)
+**** Learn about tools, materialestis, and techniques for working with leather
+**** Take home a beautiful object you will have created
+**** Learning Goals
+***** Overall Goals (if magic worked, by snapping your fingers, you could...)
+****** Be able to X
+***** Subsidiary Goals (since magic doesn't work, the skills and knowledge you need are...)
+****** Know A, B...
+****** Be able to Y, Z...
+***** Experiences you will have
+****** Do H, I...
+****** See M, N...
+****** Meet interesting people
+***** Physical Takeaway
+****** Object You Created or worked on substantially
+**** Requirements
+**** Tools Student will need
+***** a, b...
+**** Tools Freeside will provide
+***** c, d...
+**** Materials provided during class
+***** e, f...
+*** Hazardous Materials - NONE
+*** Attendee Parameters
+**** Age 14 or older
+** Classes for Laura
+*** Spin Yarn
+*** make tool bag
+
+* Car
+** Can Holder
+- [ ] get leather
+- [ ] trace pattern
+- [ ] cut leather
+- [ ] drill leather
+- [ ] glue piece together
+- [ ] install
+** Arm Rest
+- [X] reinforce
+- [X] paint with slurry
+- [X] reinstall
+** Seat
+** Coolant
+** Front Window
+** Check Engine
+  - [X] Have engine bolts checked
+  - [ ] Price catalytic converter
+  - [ ] install catalytic converter
+** Wheel Well
+  - [ ] Price part
+  - [ ] order part
+  - [ ] install part
+* copy books to computer
+** Practical Common Lisp
+* copy websites to computer
+** CLHS
+** Cookbook
+** better tape adapter
+* copy videos and audio to computer
+** Marco Beringer
+** how to install emacs, Slime, SBCL, CCL, Haskell, etc
+* Passport Cover
+- [ ] get dimensions
+- [ ] get laser etch design
+- [ ] Select Leather
+- [ ] stitch
+* Checklist
+**** Inkscape (SVG generator)
+|----------------------------------------------------+-----+---+---+---|
+| task                                               | a b | c | d |   |
+|----------------------------------------------------+-----+---+---+---|
+| separate layers                                    | x   | x | x |   |
+| order layers                                       | x   | x | x |   |
+| align with origin                                  |     |   | x |   |
+| make sure dimensions are in inches (if so desired) | x   | x | x |   |
+| make sure strokes are 0 px                         | x   | x | x |   |
+| copy DXF file to flash drive                       | x   | x |   |   |
+**** CamBam (need not have post-processor)
+| task                                 | a b | c | d |   |
+|--------------------------------------+-----+---+---+---|
+| make sure layers are separate        | x   |x  |  x |   |
+| make sure dimensions are appropriate | x   | x |  x |   |
+| make engravings layer by layer       | x   |  x |  x |   |
+| make multiple copies of engrave      | x   |  x |  x |   |
+**** camBam (must have post-processor)
+| task                        | a b | c | d |   |         |
+|-----------------------------+-----+---+---+---+---------|
+| set post-processor to Laser |     |   |   |   |         |
+| produce gcode               |     |   |   |   | * Mach3 |
+| task                        | a b | c | d |   |         |
+|-----------------------------+-----+---+---+---+---------|
+| load gcod                   |     |   |   |   |         |
+| zero head                   |     |   |   |   |         |
+| test fire                   |     |   |   |   |         |
+| align                       |     |   |   |   |         |
+| run                         |     |   |   |   |         |
+
+- [ ] import gcode
+- [ ] test fire
+- [ ] go!
+* ClassStarter
+Class Offering
+- Class
+- DateTimeSpan
+- Fees
+Instructor
+Class
+- Description
+- Name
+- Instructors
+Class Offering Set
+- Class Offering *
+- Trigger
+- Deadline
+Trigger
+- Type (amt OR student count)
+- Trigger Qty
+Student
+- ID
+Bid
+- Student
+- Class Offering
+* Phaser
+- [X] Make ingots of aluminum
+One sparkly water ca weighs 14g
+- [X] calculate amount of aluminum needed for phaser
+ Dimensions of surrounding cuboid in file Midgrade_P1_Unibody.stl
+(42.38 25.628 97.939) in mm
+Vol of cuboid mm3 106372.984
+Vol of cuboid cm3 106.372984
+One sparkly water can 14g
+density of Al 2.70 g/cm3
+weight of surrounding cuboid 287.2 g
+number of cans 20.51
+- [X] gather ingots
+- [X] emplace ABS model in green sand
+- [X] pour on molten aluminum
+- [ ] pull out of sand - Waiting on Darby
+*** model phaser
+- [X] modify model
+- [X] print model
+- [X] calculate volume of phaser
+*** finish melter
+- [X] finish forge
+- [X] buy charcoal
+- [X] gather aluminum cans
+*** make mold
+- [X] get sand
+- [X] make frame
+- [X] sand around model
+*** cast final object
+- [X] melt aluminum
+- [X] pour aluminum
+- [X] let metal cool
+- [ ] pull pour
+* CraigsList for sale
+** Trailer Hitch
+- [ ] responses from Jonathan, Taylor
+** Trampoline
+- diameter 40"
+- height 10"
+Urban Rebounding
+** Scuba tanks 
+- 24" tall
+- 6.5" diameter
+** Dovetail Jig
+Reliant NN852
+* study org mode
+* Fix Shocker
+* Steps to set up business
+* Klingon Nixie Clock
+* Survival Tool
+* Electro Pads
+* Project Dolphin
+  - [X] Make STL of object
+  - [X] Use Meshcam
+    - [X] Import STL
+    - [X] Set Machining Regions
+    - [X] Define Tool Parameters
+    - [X] Define path Parameters
+    - [X] generate toolpath
+    - [X] get time estimate
+    - [X] save toolpath
+  - [X] Use CNC
+    - [X] Emplace work piece
+    - [X] Emplace tool
+    - [X] Final Checks
+    - [X] Run
+    - [ ] Make sure that all pieces that WILL BECOME LOOSE are fastened
+  - [X] Distress Work Piece
+  - [ ] Cut bolts
+  - [ ] drill holes for bolts
+  - [ ] glue bolts to work piece
+  - [ ] Add hooks
+* Project Dinosaur
+Lincoln Electric
+888-935-3876
+* Project Ytterbium
+* Random
+- [ ] visit Hedgepeths
+- [ ] start kettling
+- [ ] start riding bike
+- [ ] sailing
+- [ ] Tourist map of Tokyo
+- [ ] cheap plastic models
+- [ ] learn and review capacitor codes
+- [ ] baper
+- [X] make template of machete
+- [ ] tutorial emacs
+- [ ] document desktop items
+- [ ] filter one box of papers
+- [ ] filter cool stuff on table downstairs
+- [ ] make critters
+  - [ ] frog
+  - [ ] snail
+  - [ ] lobster
+  - [ ] alligator
+  - [ ] bird
+  - [ ] cat
+  - [ ] laser cut sktter
+  - [ ] DIY skitter
+  - [ ] mummy bears
+  - [ ] armaduino
+  - [ ] sugar chain
+- [ ] plan improvements to armor
+- [ ] get 3d model of me
+- [ ] make 7-sided badge
+- [ ] test hard drives
+- [ ] find hard drives
+- [ ] cast metal
+- [ ] make Froot Loop box
+- [ ] 7-sided bolt
+- [ ] fix brass magnifier
+- [ ] make flexible note pad
+- [ ] Pay Emory biils
+- [ ] Thank Dr. Gitlin
+* Change phone from mike to mp3 player
+* gear sets
+** on body
+- Keys: house, car, freeside, Kroger card
+- Wallet: money, bank card, drivers license, library card, Breeze
+- watch
+- phone
+- Knife
+- flashligh
+- Pen WITH TOP
+- note pad or paper
+** in backpack
+*** Immediate
+- Phone charger
+- Phone battery
+- USB for phone charging
+- laptop power supply
+*** Toiletries
+- toothbrush
+- toothpaste
+- razor
+- mouthwash
+*** hardware
+- cutter
+- duct tape
+- para cord
+*** IT
+- CAT5 cable
+- Flash drives
+** in car
+- [ ] water
+- [ ] coolant
+- [ ] cables
+** at freeside
+*** toiletries
+*** food
+*** tools
+** at home
+* Pythonator
+Goal: Create a set of Lisp functions to automate the creation of Python script to create and populate a data structure for an app. 
+- [ ] capture as Lisp list list of data store entity property types used in Python SDK
+- [ ] document name of file
+* org-mode configuration
+#+STARTUP: overview
+#+STARTUP: hidestars
+#+STARTUP: logdone
+#+PROPERTY: Effort_ALL  0:10 0:20 0:30 1:00 2:00 4:00 6:00 8:00
+#+COLUMNS: %38ITEM(Details) %TAGS(Context) %7TODO(To Do) %5Effort(Time){:} %6CLOCKSUM{Total}
+#+PROPERTY: Effort_ALL 0 0:10 0:20 0:30 1:00 2:00 3:00 4:00 8:00
+#+TAGS: { OFFICE(o) HOME(h) } COMPUTER(c) PROJECT(p) READING(r) 
+#+TAGS: DVD(d) LUNCHTIME(l)
+#+SEQ_TODO: TODO(t) STARTED(s) WAITING(w) APPT(a) | DONE(d) CANCELLED(c) DEFERRED(f)
+* Staples lists 
+*** Dollar Tree
+**** Soaps Etc
+- [ ] Laundry Detergent
+- [X] Bleach
+- [X] Spot remover
+- [X] scrubbies
+- [ ] Trash Bags
+- [ ] Dishwasher Liquid
+- [ ] Dish soap (like Joy)
+- [ ] Toilet Paper
+**** Hardware
+- [ ] Power cords
+**** Toiletries
+- [X] Deodorant
+- [X] Bath Soap
+- [ ] Toothpaste
+- [ ] Toothbrushes
+- [ ] Shaving Cream
+- [ ] Razors
+- [ ] Vitamin B
+**** Food
+- [ ] Vinegar 
+- [ ] Spices
+- [ ] Hot Sauce
+***** Microcenter
+- [ ] Hard Drive
+***** Family Dollar
+- [ ] Sunglasses
+- [ ] silicone
+- [ ] Dishwashin Liquid
+***** CostCo
+- [ ] Plums
+- [ ] Coconut Oil
+- [ ] Vitamins
+- [ ] Cardboard Boxes
+***** Home Depot
+- [ ] Keys
+- [ ] Wood
+***** Kroger
+- [ ] Butter
+- [ ] Water
+- [ ] Tortillas - La Banderita
+- [ ] Potatoes for Frying (Idaho)
+- [ ] Black Beans
+- [ ] Eggs
+- [ ] Milk
+***** Chik-Fil-A
+- [ ] Buckets
+***** Farmers Market
+- [ ] Chicken roast
+- [ ] roast vegetables
+- [ ] Steak & Shake powder
+- [ ] roast beef
+- [ ] Salsa
+- [ ] Pickles
+- [ ] Smoked peppers
+- [ ] Garlic
+- [ ] Ginger
+- [ ] Smoked Paprika
+- [ ] Peppers
+- [ ] whole milk
+- [ ] rennet
+- [ ] Mustard Seed
+  
+***** Other Online
+- [ ] Buy Soylent
+
+*** Farmers Market
+- [ ] Chicken roast
+- [ ] roast vegetables
+- [ ] Steak & Shake powder
+- [ ] roast beef
+- [ ] Salsa
+- [ ] Pickles
+- [ ] Smoked peppers
+- [ ] Garlic
+- [ ] Ginger
+- [ ] Smoked Paprika
+- [ ] Peppers
+- [ ] whole milk
+- [ ] rennet
+- [ ] Mustard Seed
+** Family Dollar
+** CostCo
+- [ ] Plums
+- [ ] Coconut Oil
+- [ ] Vitamins
+- [ ] Boxes
+** Home Depot
+- [ ] Keys
+- [ ] Wood
+- [ ] Tape
+** Kroger
+- [ ] Water
+- [ ] Tortillas
+- [ ] Black Beans
+- [ ] Eggs
+- [ ] Milk
+- [ ] Gelatin
+- [ ] Jello
+- [ ] Sour Cream
+- [ ] Cheese
+** Chik-Fil-A
+- [ ] Buckets
+* Small Tasks
+- [ ] copy tapes to memory get storage disk
+- [ ] save flash sticks
+** Ebay
+*** ebay shopping list
+| carted | Item                           | Q: |   Per |    ST | ship | Condition |    TT |   |
+|--------+--------------------------------+----+-------+-------+------+-------+-------+---|
+|        | <30>                           |    |       |     0 |      | <5>   |       |   |
+|        | 3ft Micro USB 2.0 Charger Charging Sync Data Cable for Samsung Galaxy S2 HTC |  1 |   .99 |  0.99 |      | New   |  0.99 |   |
+|        | 3.5mm AUX Car Audio Cassette Tape Adapter Transmitters for MP3 IPod CD MD iPhone |  1 |  3.97 |  3.97 |      |       |  3.97 |   |
+|        | 2600mAh USB Portable External Backup Battery Charger Power Bank for Cell Phone |  2 |  2.19 |  4.38 |      | New   |  4.38 |   |
+|        | 2A USB US Plug AC Wall Charger Adapter + Micro USB Cable Cord For Samsung HTC LGw |  2 |  2.19 |  4.38 |      |       |  4.38 |   |
+|        | One Flew Over the Cuckoo's Nest Text and Criticism 1976 by Kesey, K 0140043128 |  1 |  3.89 |  3.89 |      | Good  |  3.89 |   |
+|        | Flash drive                    |    |       |     0 |      |       |  0.00 |   |
+|        | 5x New 10mm Dia Flat Button Type 3V-4.5V Micro Vibrator Motor F Cellphone 0.06A |    |       |     0 |      |       |  0.00 |   |
+|        |                                |    |       |     0 |      |       |       |   |
+|        | 170 pin minis     10X          |  2 |  5.35 |  10.7 | 2.54 | 0     | 13.24 |   |
+|        | 400 pin boards    10X          |  1 | 15.88 | 15.88 | 2.80 |       | 18.68 |   |
+|        | battery for phone              |  1 |  6.99 |  6.99 |    0 |       |  6.99 |   |
+|        | charger for phone              |  2 |  2.19 |  4.38 |    0 |       |  4.38 |   |
+|        | Haynes Manual                  |  1 | 14.91 | 14.91 | 3.99 |       | 18.90 |   |
+|        | AAA call for tow truck         |    |       |     0 |      |       |  0.00 |   |
+|        | tooth whitener                 |  1 |  9.25 |  9.25 |      |       |  9.25 |   |
+|        |                                |    |       |     0 |      |       |  0.00 |   |
+|        |                                |    |       |     0 |      |       |       |   |
+
+*** ebay list 2  
+|--------+--------------------------------+----+-------+-------+------+-------+-------+---|
+|        |                                |    |       |     0 |      |       | 71.44 |   |
+|        |                                |    |       |     0 |      |       |       |   |
+|        |                                |    |       |     0 |      |       |       |   |
+|        |                                |    |       |     0 |      |       |       |   |
+|        | 10PCS CD4050BE DIP-16 CD4050 TI HEX Non-Inverting Buffer/Converter |    |  2.05 |    0. |      | New   |       |   |
+|        | 10pcs CD4028BE 4028 CD4028 BCD to Decimal Decoder DIP-16 |    |  2.46 |    0. |      | New   |       |   |
+|        | 10PCS CD4081BE DIP-14 CD4081 DIP14 TI Quad 2 Input Or/And Gates |    |  3.39 |    0. |      | New   |     5 |   |
+|        | 20Pcs 32.768 KHz 32768HZ Tuning Fork Watch Crystal 3x8mm 12.5PF |    |  3.99 |    0. |      | New   |     5 |   |
+|        | 5 x CD4027 4027 Dual Edge Triggered J-K Master-Slave I |    |  2.36 |    0. |      | New   |     5 |   |
+|        | 5 x CD4060 4060 RIPPLE CARRY BINARY COUNTER IC |    |  2.36 |    0. |      | New   |     5 |   |
+#+TBLFM: $1=-::$5=$3*$4::$8=$5+$6;%0.2f
+
+
+| Item                                                                                                               | Bed | Car | Pack | Life | Qty | ebay Price | ebay Total |                      amz price | amz total | Category |
+|--------------------------------------------------------------------------------------------------------------------+-----+-----+------+------+-----+------------+------------+--------------------------------+-----------+----------|
+| Micro USB 2.0 Ch flew arger Charging Sync Data Cable 3ft Cord for Android Smartphones                              |   1 |   0 |    0 |      |   1 |        .99 |            |                                |           | survival |
+| Micro USB Cable, OKRAY 3 Pack/Lots 3.3 ft High Speed Micro USB 2.0 Sync and Charge Data Cable Charging Cord for... |     |     |      |      |     |            |            |                           7.20 |           |          |
+|                                                                                                                    |     |     |      |      |     |            |            |                                |           |          |
+| 3.5mm AUX Car Audio Cassette Tape Adapter Transmitters for MP3 IPod CD MD iPhone                                   |     |   1 |      |      |     |       1.59 |            |                                |           |          |
+| BESDATA Car Cassette Adapters for iPod, iPad, iPhone, MP3, Mobil Device, 3 Feet Long Cable 3.5mm Male and 2.5mm... |     |     |      |      |     |            |            |                           7.99 |           |          |
+|                                                                                                                    |     |     |      |      |     |            |            |                                |           |          |
+| x 2600 mAh Power Bank Portable External Backup Battery Charger USB for cellphone                                   |     |     |      |      |     |       1.72 |            |                                |           |          |
+| 2000mah Charger Battery Portable Backup External Powerbank Usb Power                                               |     |     |      |      |     |            |            |                           7.99 |           |          |
+|                                                                                                                    |     |     |      |      |     |            |            |                                |           |          |
+| Wall AC Home Charger Adapter for MetroPCS Samsung Galaxy Light T399, Avant G386                                    |     |     |      |      |     |       4.39 |            |                                |           |          |
+| T-Power (TM) High 2-Amp 2a Quick Charger for Galaxy S4 S-IV SGH-M919(T-Mobile) SCH-I545(Verizon) SGH-I337(AT&T...  |     |     |      |      |     |            |            |                           8.99 |           |          |
+|                                                                                                                    |     |     |      |      |     |            |            |                                |           |          |
+| Genuine SanDisk 16G USB3.0 Cruzer SDCZ48 16GB Ultra USB Flash Pen Thumb Drive                                      |     |     |      |      |     |       7.95 |            |                                |           |          |
+| Kingston 16GB USB 3.0 DataTraveler Flash Drive, Blue (DTIG4/16GBET)                                                |     |     |      |      |     |            |            |                           5.99 |           |          |
+|                                                                                                                    |     |     |      |      |     |            |            |                                |           |          |
+| IBM/Hitachi (0F10632) 2TB 7200RPM 3.5" SATA2 Hard Drive -PC/ NAS/ RAID/ CCTV DVR                                   |     |     |      |      |     |      51.99 |            |                                |           |          |
+| Western Digital My Passport Ultra 2 TB Portable Hard Drive, Black (Old Model)                                      |     |     |      |      |     |            |            |                          89.00 |           |          |
+|                                                                                                                    |     |     |      |      |     |            |            |                                |           |          |
+| 250GB Laptop Hard Drive for Dell Latitude D620 D630 D820 D830 M90 M6300                                            |     |     |      |      |     |      34.99 |            |                                |           |          |
+| 250GB 2.5 Inchs SATA HDD Hard Disk Drive Laptop Notebook                                                           |     |     |      |      |     |            |            |                          27.99 |           |          |
+|                                                                                                                    |     |     |      |      |     |            |            |                                |           |          |
+| Remembering the Kanji 1 by James W. Heisig (2011, Paperback)                                                       |     |     |      |      |     |     $29.99 |            |                                |           |          |
+| Remembering the Kanji 1: A Complete...                                                                             |     |     |      |      |     |            |            |                          14.77 |           |          |
+|                                                                                                                    |     |     |      |      |     |            |            |                                |           |          |
+| NEW UNO R3 ATmega328P CH340 Mini USB Board for Compatible-Arduino                                                  |     |     |      |      |     |       3.68 |            |                                |           |          |
+| IEIK UNO R3 Board ATmega328P with USB                                                                              |     |     |      |      |     |            |            |                          12.19 |           |          |
+|                                                                                                                    |     |     |      |      |     |            |            |                                |           |          |
+| One flew over the Cuckoo&s Nest                                                                                    |     |     |      |      |     |       3.88 |            |                                |           |          |
+|                                                                                                                    |     |     |      |      |     |            |            |                           2.85 |           |          |
+|                                                                                                                    |     |     |      |      |     |            |            |                                |           |          |
+| 5x New 10mm Dia Flat Button Type 3V-4.5V Micro Vibrator Motor F Cellphone 0.06A                                    |     |     |      |      |     |       1.48 |            |                                |           |          |
+|                                                                                                                    |     |     |      |      |     |            |            |                           2.58 |           |          |
+|                                                                                                                    |     |     |      |      |     |            |            |                           2.58 |           |          |
+| Food Grade Silicone                                                                                                |     |     |      |      |     |            |            | $8.25 + $5.15  or $9.57+ $3.64 |           |          |
+|                                                                                                                    |     |     |      |      |     |            |            |                                |           |          |
+|                                                                                                                    |     |     |      |      |     |            |            |                                |           |          |
+| Pack Of 9 Food Grade RTV Silicone Sealant (Clear) High Temp FDA/ NSF 10.39 Oz                                      |     |     |      |      |     |            |            |                          38.50 |           |          |
+|                                                                                                                    |     |     |      |      |     |            |            |                                |           |          |
+|                                                                                                                    |     |     |      |      |     |            |            |                                |           |          |
+|                                                                                                                    |     |     |      |      |     |            |            |                                |           |          |
+|                                                                                                                    |     |     |      |      |     |            |            |                                |           |          |
+| PVC Insulating Electrical Flame Retardent Insulation Tape Roll 19 MM x 20 M                                        |     |     |      |      |     |       2.15 |            |                                |           |          |
+|                                                                                                                    |     |     |      |      |     |            |            |                                |           |          |
+|                                                                                                                    |     |     |      |      |     |            |            |                                |           |          |
+|                                                                                                                    |     |     |      |      |     |            |            |                                |           |          |
+| New Balance MRT2303 CED Men's Long Sleeve X-Static Running Shirt Size M                                            |     |     |      |      |     |      16.99 |            |                                |           |          |
+|                                                                                                                    |     |     |      |      |     |            |            |                                |           |          |
+|                                                                                                                    |     |     |      |      |     |            |            |                                |           |          |
+| SHARS 0- 6" STAINLESS 4 WAY DIAL CALIPER .001" SHOCK PROOF NEW                                                     |     |     |      |      |     |            |            |                                |           |          |
+|                                                                                                                    |     |     |      |      |     |     20 + 9 |            |                                |           |          |
+|                                                                                                                    |     |     |      |      |     |            |            |                                |           |          |
+|                                                                                                                    |     |     |      |      |     |            |            |                                |           |          |
+|                                                                                                                    |     |     |      |      |     |            |            |                                |           |          |
+| Classic Rugby Shirt                                                                                                |     |     |      |      |     |            |            |                                |           |          |
+| German Wool Pants                                                                                                  |     |     |      |      |     |            |            |                                |           |          |
+| USMC Wool shirt                                                                                                    |     |     |      | `    |     |            |            |                                |           |          |
+#+TBLFM: $6=$2+$3+$4+$5::$8=$6*$7::$10=$6*$9        
+
+
+
+| Arduino Starter Kit    |       |          |             |          |   |
+|                        |       |          |             |          |   |
+| Part                   | count | ea price | total price | shipping |   |
+|------------------------+-------+----------+-------------+----------+---|
+| UNO board              |     1 |          |             |          |   |
+| Dev board              |     1 |          |             |          |   |
+| Jumper wires           |     1 |          |             |          |   |
+| LED - RGB              |     1 |          |             |          |   |
+| LED - RED              |     5 |          |             |          |   |
+| LED - YELLOW           |     5 |          |             |          |   |
+| LED - BLUE             |     5 |          |             |          |   |
+| Buzzer, Passive        |     1 |          |             |          |   |
+| Buzzer, active         |     1 |          |             |          |   |
+| Remote Control         |     1 |          |             |          |   |
+| 16 PIN DIP             |     1 |          |             |          |   |
+| 7-SEG LED single digit |     2 |          |             |          |   |
+| 7-SEG LED four digit   |     1 |          |             |          |   |
+| 8x8 dot array          |     1 |          |             |          |   |
+| 10 ohm resistor        |     5 |          |             |          |   |
+| 1k resistor            |     5 |          |             |          |   |
+| 220 reistor            |     8 |          |             |          |   |
+| 50k Pot                |     1 |          |             |          |   |
+| Photo Resistor         |     3 |          |             |          |   |
+| Flame Sensor           |     1 |          |             |          |   |
+| IR Receiver            |     1 |          |             |          |   |
+| Temp sensor            |     1 |          |             |          |   |
+| Ball tilt sensor       |     2 |          |             |          |   |
+| Tactile buttons        |     4 |          |             |          |   |
+| USB cable              |     1 |          |             |          |   |
+| 6xAA battery holder    |     1 |          |             |          |   |
+
+
+" Crafts
+** Leather
+*** Passport Covers
+*** Checkbook Covers
+*** Shoes
+*** Belt
+*** Messenger Bag
+** Silkscreen 
+** Electronics
+*** Clock
+- [ ] inventory parts for clock
+| ID number | What           |
+|-----------+----------------|
+|      4069 | Inverter       |
+|      4071 | OR             |
+|      4027 | Flip Flop      |
+|      4050 | Buffer         |
+|      4060 | Ripple Counter |
+|      4081 | AND            |
+|      7805 | 5v             |
+|           | 32k Crystal    |
+|           | 33pF           |
+|           | 0.1uF          |
+|     LM334 |                |
+|  BA10324A | OP AMP         |
+** Metalworking
+*** Tableware from Tools
+*** Bookcases
+** Woodworking
+- [ ] Learn to use Router table
+- [X] learn to edit video
+- [ ] make your own awl
+- [ ] make leatherworking tools
+** Get Microwaves
+** Appliances that might work
+- [ ] Shredder
+- [ ] Printer
+** Cool stuff
+*** EL wire
+*** Decide what to do with MD player
+* Projects
+*** [5/7] Spot Welder
+**** [5/5] Assemble
+- [X] Sand Parts
+- [X] Paint Parts
+- [X] Assemble
+- [X] crimp terminals onto wire
+- [X] connect terminals to other terminals
+**** Modify
+- [ ] modify to make stronger
+**** Handle
+- [ ] make handle
+**** [2/7] decoration
+- [X] name
+Spanky
+*** [0/5] Fix Nixie Clock
+- [ ] determine part required
+- [ ] order part
+- [ ] receive part
+- [ ] install part
+- [ ] test clock
+*** [0/0] Clock
+**** [0/3] Oscillator
+ - [ ] Add single flip-flop to oscillator
+ - [ ] Test Oscillator module
+Oscillator module can be used as a tester for 4060s
+- [ ] Shrink Oscillator Module
+**** CT6 (x 5)
+- [ ] assemble count-to-six module (CT6)
+- [ ] assemble
+pinout monitor module
+- [ ] test CT6
+CT6 with pinout asssembly can be used as a tester for chips
+**** Pinout to pulser (x 5)
+- [ ] assemble pulse monitor - wire logic chip
+- [ ] assemble patch panel
+- [ ] attach pulse monitor to chip
+- [ ] test pulse monitor
+*** [/] Laser cut Tyvek
+- [ ] test various power levels and head speeds
+*** Molding
+**** [6/7] Giant Gummi Bear
+- [X] Try with Jello
+- [ ] Try with Agar
+- [X] Buy RTV silicone
+- [X] Buy Food Grade Silicone
+- [X] Buy 100% silicone
+- [X] Measure Target Gummy Bear
+5 13/16 tall
+2 7/16 wide
+2 1/4 thick (front to back)
+- [X] Price Agar
+**** giant Gummy Eye
+- [1/1] Pupil
+  - [X] figure out pupil in Iris
+- [X] test Quinine jello
+- [ ] figure out cornea
+- [X] Pupil - black Jello or licorice
+Twizzlers licorice is unusable - does not re-melt
+- [ ] Iris - any color of Jello
+- [X] White - vanilla extract
+*** [0/1] Silkscreen
+- [ ] F52U
+*** Leather
+**** [1/1] Wallet
+- [X] trim Sean's wallet
+**** [0/7] New stitching pony
+- [ ] get plans for pony
+- [ ] gather materials
+  - [ ] wood screws
+  - [ ] hinges
+- [ ] cut arms in bandsaw
+- [ ] rough fit
+- [ ] sand
+- [ ] stain
+- [ ] assemble
+**** Spare Leather from Couch
+- [X] Make Leather Wallet
+- [ ] Make Passport Cover
+*** [1/4]Plant Oscillator
+- [X] find
+- [ ] find schematic
+- [ ] update schematic
+- [ ] design using smaller components
+*** Food Projects
+**** Bacon
+**** Pizza
+**** Roast Chicken
+**** Pickles
+- [X] make dill pickles
+- [X] make pickled peppers
+*** New Belt
+**** belt new one  9/16" wide
+**** belt everyday 1 1/4" wide by 38 1/2" hinge to tip
+*** Blower on Laser Cutter
+  Central Machinery 
+  13 gallon Industrial Portable 
+  660 CFM
+** Doing and learning
+*** get file onto PC connected to 3d Printer
+? Which printer?
+? How to select?
+*** Operations on final PC
+*** finalize software settings
+*** press go
+*** Toolchain
+*** 3D model software -> [file in format mqo, obj, dxf, 3ds, lwo, stl, kml, kmz] -> -> Pepakura -> 
+*** Pepakura
+*** GCode -> Mach3 -> Cutter
+- [X] Flatten skillet
+- [X] Fix Knife
+*** 3D printer
+**** Tool Chain
+- [X] Software that talks to printer
+ Mach 3
+- [X] what does it shit
+ Signals to stepper motors and laser
+- [X] what does it eat
+ .nc files (as produced by CamBam)
+- [X] how does it digest
+ just opens file
+:: get video of Falcon Heavy test
+:: test audacity
+:: make a Klingon D7
+:: copy tapes to disks
+- [ ] Meetup Salesforce.com
+- [X] sharpen machete
+*** Document
+**** Laser Cutter
+**** Get file
+- PDF?
+- JPEG?
+- SVG / DXF
+**** Get onto PC connected to Laser Cutter
+**** Import to software that controls laser cutter
+**** Settings
+- Print head speed
+- power
+- Don't forget to post-process so laser does not "drag"
+**** Targets
+- [ ] Cardboard
+- [ ] Leather
+- [ ] F52U
+- [ ] wallet
+- [ ] software for alien head
+**** Tool Chain
+- [ ] Mach 3 software
+- [ ] G-code 
+- [ ] something creates g-code from DXF
+- [ ] DXF file (SVG file with .DXF extension)
+- [ ] Inkscape to create DXF
+**** Pepakura
+**** Band Saw
+**** Band Saw Dimensions
+- [ ] 19 3/16" deep
+- [ ] 25" wide
+- [ ] 3" bar offset to outside
+- [ ] 3/8" lip on underside of table
+**** Metal Mill
+**** Safety
+**** Avoid getting cought by the mill
+- secure long hair with a hair band
+- button sleeves completely
+**** Avoid getting metal shards in an eye
+- wear safety goggles
+**** Setup
+**** Emplace work material
+- Use parallels to move work surface toward or beyond upper edge of the work vise
+- Tighten the work vise
+- Making sure the work material to actually be worked on is within the left and right limits of the vise is safest.
+**** Emplace cutting tool
+- remove unneeded collet
+- emplace cutting tool in needed collet
+- emplace collet in mill 
+**** Select speed
+**** Move work material relative to cutting tool (the work material moves, not the cutting tool) :HELLO:
+**** Control on Z axis (up and down)
+- Located to the front, left of the machine.
+- turning the handle clockwise moves the WORK up, which seems to move the cutting tool DOWN
+**** Control on X axis (left and right)
+- Handles located to the left and right of the work vise.
+- Turning the handle on the left of the machine clockwise moves the WORK to the right, which seems to move the cutting tool to the LEFT
+- Turning the handle on the right of the machine clockwise moves the WORK to the left, which seems to move the cutting tool to the RIGHT
+**** Control on Y axis (forward and back)
+- Located to the front of the work vise.
+- turning the handle clockwise move the WORK toward the back of the mill, which seems to move the cutting tool TOWARD THE WORKER
+Use cutting fluid.
+Zero the X and Y axes.
+**** Metal Lathe
+**** Mini Vac Former
+*** General
+**** Electronics in general
+**** Components
+- [ ] sort and store 
+**** Conectors
+**** Tools
+**** Hardware
+**** Conectors
+***** Drywall Screws
+**** Tools
+- [ ] screwdrivers
+- [ ] clamps
+- [ ] cutters
+- [ ] pliers
+* Electronic goodies at Freeside
+*** Passive
+**** Resistors
+**** Capacitors
+**** Inductors
+**** Transistors
+2222
+7000
+C1815
+**** Voltage regulators
+7805
+**** Chips
+**** Logic
+7400
+**** Other chips
+LM386N
+555
+**** Breadboards
+* Home
+** Handle Photos
+** Store Memorabilia
+** Filter Clothes
+** Store Hardware
+*** Tool Lists
+** Desk Tools
+* Life
+** Kids
+- [ ]  RC planes
+- [ ]  Chart box
+- [ ]  Foam to make things out of
+- [ ] Jigsaw puzzle
+- [ ] Candy Chain
+- [ ] Clothing dyeing
+- [ ] Silkscreen
+** communication
+*** Caroline
+*** Kyoko
+*** Mark
+- [X] calculate amount owed by Mark
+*** Contact Andrew
+*** email Erik
+- [X] msg Frank
+** Make daily pattern
+- [ ] Desk work
+- [ ] Bills
+- [ ] Letters
+- [ ] Journal
+** Helping Family
+*** Mom's house
+- [ ] Level Table
+- [ ] Water Pressure
+- [ ] Paint
+*** Sean's House
+**** Outside
+***** Rock Patio
+****** Planter (rectangle) x 2
+- [X] measure
+width ext 25 3/4"
+depth int 18 1/2"
+- [X] Cut
+- [X] Drill
+- [ ] Paint
+- [ ] Install
+
+
+
+- [ ] Fix front lights outside
+****** Square 1
+- [ ] Measure
+- [ ] Cut
+- [ ] Drill
+- [ ] Paint
+- [ ] Install
+****** Square 2
+- [ ] Measure
+- [ ] Cut
+- [ ] Drill
+- [ ] Paint
+- [ ] Install
+
+**** Deck
+***** Planter
+- [X] Measure
+- [X] Cut
+- [X] Drill
+- [ ] Paint
+- [ ] Install
+***** Rotten Planks
+- [X] Measure
+need - 2x6 16', 10', 6'
+- [ ] Purchase
+- [ ] Cut
+- [ ] Paint
+- [ ] Replace
+**** Electrical at Stairs
+- [X] Gunnar's Plan (did with Aiden)
+**** Gunnar's lair
+- [ ] Powerwash
+***** Ceiling
+  - [ ] plan
+  - [ ] buy
+  - [ ] remove old
+  - [ ] install new
+**** shelves
+- Dimensions 64" cinder blocks, 70 3/4" brick, 2 1/2" corner between cinder blocks, 88" tall 
+**** Floor
+  - [ ] plan
+  - [ ] obtain
+  - [ ] install  
+**** Pool Area 
+- [X] Remove nail from shower room door
+- [ ] Paint trim
+- [ ] Water Pump Capacitor
+**** Water Feature
+- [ ] Inspect with Caitlin
+- [ ] plan
+- [ ] remove detritus
+- [ ] remove current pool - protect plumbing
+- [ ] buy concrete
+- [ ] mix concrete
+- [ ] install
+**** Planters
+**** Planter (5-sided on deck)
+- back faces 37 5/8" exterior
+- side faces 14 1/4" exterior
+- front 32 3/4"
+- [ ] Planter 1
+  - [ ] Cut pieces
+  - [ ] wire together
+  - [ ] paint
+  - [ ] assemble with soil
+- [ ] Planter 2
+  - [ ] Cut pieces
+  - [ ] wire together
+  - [ ] paint
+  - [ ] assemble with soil
+- [ ] Funny Planter
+  - [ ] Cut pieces
+  - [ ] wire together
+  - [ ] paint
+  - [ ] assemble with soil
+**** Parking Deck
+- [ ] Level BBall net
+
+
+**** Barbeque
+- [X] Clean covers
+- [ ] Clean grills
+- [X] Fix power cord
+**** Gate from driveway
+- [ ] get latch
+- [ ] Install
+**** Powerwash
+- [X] Pool Deck
+- [ ] Gunnar's Lair
+- [ ] Pump area
+- [X] Barbecue area
+- [X] 4-square area
+- [70%] Driveway
+- [0%] Furniture
+  - [50%] Chaise lounges
+  - [ ] Wicker furniture
+  - [ ] Plastic chairs
+- [ ] Carport
+- [ ] Fascia
+- [X] Rugs
+- [X] Front Walk
+- [X] Diving Board
+- [ ] Jeep
+- [ ] Jeep Doors
+**** Weeding
+- [X] Side of House (poison Ivy, brambles, thorns, bamboo)
+- [X] back fence
+- [X] deck area
+**** Planters
+**** Little Planters
+- [X] measure planter again
+- [X] cut wood to long lengths
+- [X] drill lumber
+- [X] Get extra wood for under plywood
+- [X] Measurements
+- [ ] Paint
+- [ ] Install
+**** Inside
+***** Upstairs
+**** Kitchen
+- [ ] fix drywall under kitchen sink
+- [X] Fix kitchen overhead light
+- [X] Fix lights in kitchen
+**** Craft Room
+- [X] Shelves for Aquarium stand
+- [ ] More shelves for craft room
+- [ ] Paint
+- [ ] Sort My stuff
+**** Enclosed Patio
+- [X]  Screen
+- [ ] Paint ceiling
+***** Door to left
+- [X] finish fixing screen
+- [X] trim bottom
+* Functional Programming Team Video 
+*** Video of Michael Langford's talk
+- [X] Produce video of the recent talk
+  - [X] Get videos on PC at Freeside
+  - [X] figure out why audio is not audible - tx Adam Greene
+  - [X] figure out how to work on multiple files - tx Maggie Kane
+  - [X] combine files into one video - Jud
+- [X] Version 1.0
+  - [X] render
+  - [X] provide to Shae and Maggie
+    - [X] upload to Google Drive
+    - [X] share with Shae and Maggie
+- [X] Version 2.0
+  - [X] Add title screen and thanks screen - Maggie taught me and did these
+  - [X] render
+  - [X] provide to Shae and Maggie
+    - [X] upload to Google Drive
+    - [X] share with Shae and Maggie
+- [ ] Publish
+  - [ ] Meetup?
+  - [ ] Youtube?
+How can I help publish?
+How can I help get files to Michael Langford?
+* Wish List
+*** ebay
+- [ ] trader blanket
+- [ ] navy golf jacket
+- [ ] navy shoes
+- [ ] Star Trek model
+- [ ] Armando Valladares: Against All Hope (Trade Paperback)
+- [ ] get electrodes for shocker
+* Use CNC to mill MDF
+set geometry zero, and make sure we are on the top
+retract height
+select cutting tool and collet
+measure diameter of neck, diameter of flute, length of flute, overall length
+! set tool in collet to get uniform depth
+emplace work
+move computer to CNC router area
+connect to CNC router via parallel port cable
+turn on
+log in
+start Mach 3
+use profile "Saturn"
+* Complete
+** Notes to niblings
+- [X] Collier
+- [X] Reeves
+- [X] Aiden
+- [X] Gunnar
+** Friends School
+- [X] close out
+  - [X] key to Siobhan
+  - [X] letter of expenses to Siobhan
+  - [X] receive check from Siobhan
+| Item       |  Per | Qty |  Line |   |
+|------------+------+-----+-------+---|
+| board      | 5.33 |  10 |  53.3 |   |
+| dowel      | 1.72 |   1 |  1.72 |   |
+| sand paper | 3.37 |   1 |  3.37 |   |
+|------------+------+-----+-------+---|
+| total      |      |     | 58.39 |   |
+#+TBLFM: $4=($2*$3)::@5$4=vsum(@2$4..@4$4)
+*** Materials
+- 3M Scotch 1.41 in. x 60.1 yds. Painting Production Masking Tape
+Model#  2020-36A
+(7)
+$297
+- 3M 9 in. x 11 in. 100, 150, 220 Grit Medium, Fine and Very Fine Aluminum Oxide Sand Paper (5 Sheets-Pack)
+Model#  9005NA
+(1)
+$337/package
+- 6408U 1/2 in. x 1/2 in. x 48 in. Hardwood Round Dowel
+Model#  10001804
+$172
+
+** Shelving
+| Shae      | Kevin      | Thrillgore | -- Open --    | Talley    | Robotics | Sam     | -- ? --    |
+|-----------+------------+------------+---------------+-----------+----------+---------+------------|
+| -- ? --   | -- Open -- | Don W      | -- ? --       | -- ? --   | Preston  | -- ? -- | -- ? --    |
+|-----------+------------+------------+---------------+-----------+----------+---------+------------|
+| Elliot    | Jud        | Donald     | Ben           | -- ? --   | -- ? --  | Newt    | -- ? --    |
+|-----------+------------+------------+---------------+-----------+----------+---------+------------|
+| Taylor    | -- ? --    | -- ? --    | Robert Plante | -- ? --   | Paul     | Monica  | -- ? --    |
+|-----------+------------+------------+---------------+-----------+----------+---------+------------|
+| Randall B | -- ? --    | Dagmar     | -- ? --       | Jack Song | -- ? --  | -- ? -- | -- Open -- |
+
+** Foundry
+- [X] top
+  - [X] prepare items for mold
+  - [X] weld handles
+  - [X] mix concrete
+  - [X] pour concrete
+  - [X] let dry
+- [X] Hair Dryer
+- [X] adapter for metal part to pvc part
+- [X] crucible
+- [X] fuel
+
+** Kroger Bling
+- [X] Create Kroger Bling v 3.0
+  - [X] get bar code scanner onto phone
+  - [X] find online barcode creator
+  - [X] document name of barcode scanner
+http://www.waspbarcode.com/barcode-maker
+  - [X] make STL file for printing
+    - [X] create bar code 
+    - [X] create SVG using Inkscape
+    - [X] import SVG into 123D Design as solid
+    - [X] cocmbine - DO NOT GROUP
+    - [X] fix size
+    - [X] add frame
+    - [X] save as STL
+  - [X] Print
+  - [X] Make white acetone goo
+  - [X] fill in gaps between black bars - IN PROGRESS
+  - [X] sand
+  - [X] test - fail
+** Make a Sharpening wheel
+- [X] complete
+  - [X] design wheel
+  - [X] get materials
+    - [X] MDF (must be sufficient for a 6" diameter wheel)
+  - [X] design to make 2D DXF
+    - [X] create circles for wheel and hole in wheel
+    - [X] align
+    - [X] convert objects to paths
+    - [X] diff them
+    - [X] save file (default is as SVG)
+    - [X] save as DXF
+  - [X] import to Meshcam
+    - [X] Open
+    - [X] select file
+    - [X] specify height for object (adds third dimension)
+    - [X] double-check that dimensions were imported correctly
+    - [X] correct by scaling if necessary
+  - [X] produce GCode
+    - [X] step 1
+    - [X] step 2
+  - [X] prepare CNC router
+  - [X] load GCode into CNC router
+  - [X] run CNC job
+** Fix Trolling Motor for Ward
+- [X] get more JB weld
+- [X] second round on hinge
+  - [X] clean mount
+  - [X] prep mount
+  - [X] apply JB weld
+  - [X] let it dry
+  - [X] test it
+- [X] pole clamp
+  - [X] clean mount
+  - [X] prep mount
+    - [X] clean piece
+    - [X] find pole to use
+  - [X] apply superglue
+  - [X] apply JB weld
+  - [X] let it dry
+  - [X] dremel
+- [ ] find 1/4" rod
+- [X] Not Required - make second rod for mount for second set of holes
+** Situation
+Currently, we are using one PC to control the Laser Cutter and the CNC mill. So, only one can be used at a time.  This is impacting work.  
+** Status
+I am stuck because the PC I am trying to install WinXP 32-bit on (the one that has been sitting on the floor in the Project Storage area) is not recognizing a USB stick as proper media.  I have changed the boot order, and temporarily disabled the HD as a boot device (since reversed), but no joy.
+I have placed the set of box, keyboard, mouse, monitor, power cables, and USB stick in a corner in the laser cutter room.
+The Dell Precision 490 that Slade brought has a parallel port. 
+That Dell also has WinXP 64bit installed (or at least is marked as such). Since Mach3 reportedly does not run on 64bit, WinXP 32bit needs to be installed. I am working on getting a bootable USB stick with the ISO I got yesterday.
+Or, we could buy a Dell Optiplex 160L on ebay for $59.08 with Free Shipping.
+Slade has install CD's for WinXP 32 bit
+*** Tasks
+- [X] identify PC to use
+  - [X] box
+  - [X] keyboard
+  - [X] mouse
+  - [X] monitors
+- [-] install Win XP 32 bit OS
+  - [X] reformat existing partitions using tool suggested by Slade
+  - [X] get ISO
+  - [-] install OS
+    - [-] USB install - the ISO Jud got
+      - [X] download ISO
+      - [X] load onto USB
+      - [ ] install OS on box using USB -- tried, failed
+      OR
+    - [X] USB install - the ISO Cory got
+      - [X] download ISO
+      - [X] load onto USB
+      - [X] install OS on box using USB -- tried, failed
+      OR
+    - [-] CD install
+      - [X] burn new ISO - failed
+        - [X] get blank CD - thanks, Scott
+        - [X] burn ISO to CD
+        - [X] install OS using CD - tried, failed
+      OR  
+      - [ ] use existing install CD
+        - [ ] get existing install CD - Slade
+        - [ ] install using CD)
+- [ ] install physical parallel port
+  This might not be required; if we use the Dell Precision 490 brought by Slade, it has a parallel port.
+  - [ ] get physical parallel port
+  - [ ] install parallel port
+- [ ] install Mach3
+  - [ ] install software
+  - [ ] configuring Mach3 with the right stepper profiles
+    - [ ] identify steps to configuring Mach3 with the right stepper profiles -- Randy   
+  - [ ] install license
+- [ ] install CamBam
+  - [ ] install software
+  - [ ] install license
+- [ ] emplace PC
+** Next
+- [X] Get a physical parallel port that can be installed on the PC  Cory? 
+- [X] identify steps to configuring Mach3 with the right stepper profiles -- Randy   
+General instructions provided by Scott.
+  - [ ] reformat existing partitions using tool suggested by Slade
+Other?
+** Matt - video use of forge
+- [X] do
+** Shelf fitting for mom
+- [6/6] complete
+  - [X] Measure tall bottle
+  - [X] Measure current board
+  - [X] cut new board
+  - [X] cut 2x4 lengths
+  - [3/3] flatten shelf OBE didnt work
+    - [X] wet shelf
+    - [X] put heavy object on it to straighten it out
+    - [X] dry it in oven -- IN PROGRESS
+  - [X] attach 2x4 to rails
+    - [X] get screws
+    - [X] get driver
+    - [X] drive screws
+  - [X] take to car
+9.5" to current shelf support
+13 inches space under shelf is fine
+So, 3.5 inches of additional space = 1 2x4
+10 1/4 inches deep
+22 1/4 inches wide
+** Material Costs
+| Material            | Source        | qty       | price |                                           |
+|---------------------+---------------+-----------+-------+-------------------------------------------|
+| cement (mortar mix) | HD            | 60lb      |  4.87 | Quikrete 60 lb. Mortar Mix                |
+| concrete            | HD            | 60 lb     |  3.10 | Quikrete 60 lb. Concrete Mix              |
+| charcoal            |               |           |  9.99 |                                           |
+| plaster             | HD            | 25 lb.    | 15.98 | DAP 25 lb. White Plaster of Paris Dry Mix |
+| silicone 100%       | Family dollar | cartridge |  3.62 |                                           |
+|                     |               |           |       |                                           |
+
+** Signs for Chik-Fil-A
+- [X] make
+- [X] Distribute
+  - [X] Vinings
+  - [X] WPF
+  - [X] Northside
+  - [X] Piedmont
+
+** Suzanne Book
+*** Pen Holder
+*** Mod bookmark
+- [9/9] Etch
+  - [X] email photo
+  - [X] Import to graphics
+  - [X] convert to grayscale
+  - [X] scale
+  - [X] test on leather
+  - [X] measure Z 81mm
+  - [X] flat
+  - [X] strength
+  - [X] speed 
+*** elastic
+** Sign for sign-up computer
+** Sign for payments / donations computer
+** Sign for aluminum cans collection
+** Laser Cut Wallet
+- [X] create carboard mockup
+- [X] create practice leather wallet
+  - [X] cut / etch with laser cutter
+  - [X] stitch
+- [ ] create final leather wallet
+  - [ ] print pattern
+  - [ ] select leather
+  - [ ] glue to leather
+  - [ ] cut and hole-punch
+  - [ ] Q: do we have a punching fork
+    - [ ] take a looksie
+    - [ ] ask Jack
+
+** Electronics Chips
+| number | description                | Wayne | Jud |
+|   4060 | 14stg ripple binary conter |       | j   |
+|   4017 | decade counter             | some  |     |
+|   4080 |                            |       |     |
+|   4047 | mono/astable multivibrator | w     |     |
+|   4011 | NAND                       | w     |     |
+|   4018 | divide by N counter        | w     |     |
+|   4516 | preset 4bit up down cntr   | w     |     |
+|   4073 | 3in AND                    | w     |     |
+|   4027 | JK Flip Flop               |       | j   |
+|   4069 | HEX Inverter               |       | j   |
+|   4071 | OR                         |       | j   |
+|   4050 | Buffer                     |       | j   |
+|--------+----------------------------+-------+-----|
+|        |                            |       |     |
+*** Boxes to make
+tools - general set
+screwdrivers
+drill bits and drivers etc
+socket wrenches
+other werenches and pliers
+
+- [X] get nathan to order part for drill press
+- [X] get nathan to forward message about recycler
+- [X] document what to do when access to the internet drops
+- [X] fix car armrest
+- [X] make signs
+** Pony
+- [X] Improve Pony
+  - [X] measure pony
+  - [X] figure out how to attach new parts
+  - [X] remove old parts
+    - [X] unscrew
+  - [X] fasten new parts
+  - [X] trim hands
+  - [X] remove arms
+  - [X] line up well
+  - [X] drill pilot holes
+  - [X] screw together arms and hands
+*** Setup pc for programming
+**** SBCL
+**** EMACS
+**** Slime
+**** quicklisp
+**** Haskell
+- Install SBCL
+  - add sbcl path to %PATH%
+- Install and initialize quicklisp
+- quickload SLIME
+- install emacs
+  - set home directory on runemacs icon
+    
+
+- [ ] email to Kevin Miller chick fil a
+- [ ] call chick fil a Nothside
+- [ ] call cfa piedmont
+
+** Pay money witnessed by Scott
+- [X] complete
+
+* Fix Knife
+
+
+k* Using GIT
+** Goals
+  - [ ] local copy of Adam Petersen's retro-games app
+  - [ ] local copy of Matthew Snyder's diff
+  - [ ] local copy of merged file
+  - [ ] working copy of app
+  - [ ] pattern for using Hunchntoot etc
+
+
+- [X] AFP meetup
+  - [X] schedule venue
+  - [X] get videographer
+    - [X] check with Matt - Cannot
+      - [X] confirm date with Ram
+  - plan video
+  - [ ] onto Flash drive
+  [ ] 
+      - [X] picture of McCarthy
+      - [X] Abelman
+      - [X] Sussman
+      - [ ] SICP video
+      - [ ] NCIS scene (for soundtrack)  
+    - [ ] how to do slow zoom - Burns Effect
+      - [ ] keyframe
+      - [ ] other keyframe
+    - [ ] h2 fade out
+    - [ ] Bach piece from show
+    - [ ] how to float areas
+    - [ ] appropriate text
+    - [ ] outfit
+      - [ ] khakis a little too long
+      - [ ] light blue short sleeved shirt
+      - [ ] wide belt
+- [-] bandoiliereque for Shae
+  - [X] belt
+  - [ ] potion bottles
+  - [ ] test tubes
+  - [X] make teeny tiny batteries
+  - [X] mold neck around bottle - IN PROGRESS
+  - [X] drill holes
+  - [X] dye black
+  - [ ] stitch to bottle 
+  - [ ] stitch neck for flask
+  - [X] buy other parts at Michaels
+  - [ ] hooks from Yido
+  - [ ] plan how to attach belt to costume
+  - [ ] attach to costume
+  - [ ] mold skull tops for corks
+  - [ ] design LED - battery compartment
+  - [ ] design LED array in corks

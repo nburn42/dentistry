@@ -1,0 +1,301 @@
+* Projects
+** Electrical
+*** In
+**** run satisfactory electrical to light in kitchen
+**** Run electrical to Form1 room
+**** Run electrical to kiln
+**** hole in outlet above projector
+**** inspect for exposed outlets
+**** lights in hallway
+
+We need to have a permit pulled.
+
+Please remind me of your name.  I'm terrible with names.
+
+*** Considering
+**** Drop wires in workshop
+**** power into outlets on wall at kitchen corner
+**** 
+- [ ] Find judge that sentenced Robert to community service
+- [ ] have him send others (electrician, carpenter) our way
+- [X] Identify potential electricians
+- [X] Contact potential electricians
+- [X] have potential electricians visit
+- [X] explain requirements to electricians
+- [ ] receive quote or estimate from electician
+- [ ] decide whether to involve Metropolitan
+- [ ] order work
+- [ ] have work done
+*** Requirements
+**** Drops in workshop
+* Marquee Attractions Usability
+** Scorecard
+  - [5/11] Scorecard
+    - [X] SLA
+    - [ ] Kiln 
+    - [X] Laser Cutter
+    - [X] Lulzbot Mini (codename: Rosebud)
+    - [ ] Kraken
+    - [X] Paint Booth - but not ventilated
+    - [ ] Vacuum table
+    - [ ] Autobay 
+    - [ ] Bio lab 
+    - [ ] Front Room as Classroom
+    - [X] Large CNC
+  - [3/11] Detail
+    - [-] SLA
+      - [X] complete ventilation
+      - [ ] complete electrical
+    - [ ] Kiln 
+      - [ ] complete electrical
+    - [X] Laser Cutter
+    - [X] Lulzbot Mini 
+    - [ ] Kraken
+      - [ ] fix alignment
+    - [ ] Paint Booth
+      - [ ] complete ventilation
+    - [ ] Vacuum table
+      - [ ] complete electrical
+    - [-] Autobay 
+      - [ ] remove Chaos Corps pallet
+      - [ ] remove biolab stuff
+      - [X] remove completed shelving parts
+    - [ ] Bio lab 
+      - [ ] remove excess 
+      - [ ] build table stand for vacuum hood
+    - [ ] Front Room as Classroom
+      - [ ] abate sound
+    - [X] Large CNC
+** Tasks
+  - [6/6] Make SLA useable
+    - [X] Ventilation - separate section
+    - [X] Install Ethernet in SLA Room
+    - [X] decide where it is to connect at far end
+      - [X] measure length of CAT-5 required
+      - [X] cut CAT-5 to length - Jud
+      - [X] drop CAT-5 cable as required - Jud
+      - [X] connect CAT-5 at end far from SLA room - Cory
+      - [X] install wall jacks in SLA room
+      - [X] decide what to buy - Jud - 
+      - [X] buy - Jud
+    - [X] emplace dust barrier
+    - [X] Emplace SLA
+    - [X] find power supply
+  - [3/4] Make Kiln Usable
+    - [X] usable
+    - [X] Plan final location of equipment
+    - [ ] modify electrical to suit - separate section
+    - [X] move existing items out of the way
+  - [3/3] Make Laser Cutter Usable in SLA room
+    - [X] replace tube
+    - [X] ventilation - separate section
+    - [X] emplace
+  - [0/1] Make Vacuum Table Usable
+    - [-] Electrical    
+      - [X] Find email from Scott that explains everything
+      - [X] document conversation with John the Elder from Home Depot
+        - [X] Parts
+	  - [X] stuff gotten by Scott
+	  - [X] enclosure  
+        - [X] Assemble relayed power control box
+      - [ ] final steps - Nathan
+  - [0/0] Make Autobay Usable - Target is to be cleared of biolab stuff by 26 July
+    - [1/4] remove stuff that is in the way
+      - [1/2] shelving
+	- [X] shelf frames
+	- [ ] material for additional shelves
+      - [2/4] Detritus from Biotech Inheritance
+        - [2/6] Put Inventory on Craigslist - Nathan
+  	  - [ ] Carts
+  	  - [ ] Computers
+  	  - [ ] adapters
+  	  - [ ] oven
+	  - [X] bath
+	  - [X] liquid robot
+        - [0/6] Put Inventory on ebay- Nathan
+	  - [ ] Carts
+	  - [ ] Computers
+	  - [ ] adapters
+	  - [ ] oven
+	  - [ ] bath
+	  - [ ] liquid robot
+        - [0/6] Sell Item - Nathan
+	  - [ ] Carts
+	  - [ ] Computers
+	  - [ ] adapters
+	  - [ ] oven
+	  - [ ] bath
+	  - [ ] liquid robot
+        - [X] Put Photos on Google Drive - Rowan
+        - [X] Set up Craigslist account - Nathan
+        - [ ] Decide how long to wait - Nathan
+        - [ ] Wait
+      - [ ] pallet - Randy
+      - [X] Kali's metal bandsaw - Kali
+	- [X] Put in Recyclium with note that it is Kali's
+	- [X] (OR) Remove
+      - [ ] Two catchments of used oil - Fess Up!
+      - [ ] Cosplay pole stands - Cosplay
+  - [0/0] Make Front Room usable as classroom
+** Other Improvements
+    - [X] Kali's Saw
+    - [ ] fix front display
+    - [ ] fix gate code mailer
+    - [ ] remove cosplay stuff from front room
+    - [ ] emplace baby head
+    - [ ] more shelving for kitchen
+    - [ ] fix rack on drill press
+The drill press keeps having the rack slip out of being held to the post. We will try attaching the rack to the post with epoxy.  If that does not work, we will try tack welding the rack to the post at the verey top and bottom.
+I used JB weld to fasten the rtack to the post.  The JB eeld is cracking, currently not slipping.
+      - [X] Order part
+      - [X] receive part
+      - [ ] emplace part
+    - [0/1] third set of Member Storage Shelves
+      - [5/5] Make Shelf frames - Jonathan
+        - [X] finish shelf frame 1
+        - [X] finish shelf frame 2
+        - [X] finish shelf frame 3
+	    - [X] cut cross-members to fit
+	    - [X] weld together shelf frame
+	    - [X] clean welds
+        - [X] finish shelf frame 4
+	    - [X] cut cross-members to fit
+	    - [X] weld together shelf frame
+	    - [X] clean welds
+        - [X] finish shelf frame 5
+	    - [X] cut cross-members to fit
+	    - [X] weld together shelf frame
+	    - [X] clean welds
+      - [/] Make Shelf Uprights
+	  - [ ] Weld shelf unit
+	  - [-] install plywood
+	    - [ ] calculate requirements
+	    - [ ] buy wood
+	    - [ ] cut wood
+	    - [-] glue wood to shelf framesud
+    - [-] Clean Ham Shack
+      - [ ] remove sewing stuff
+      - [ ] Review stuff for usefulness to Freeside
+      - [X] Remove cabinets
+      - [X] Remove non- HAM stuff
+      - [ ] remove white desk
+      - [ ] Filter stuff that might be HAM stuff - Randy
+    - [ ] Connect Electricity
+Target date to CALL electician to come and visit - 15 days (11 Jun)
+      - [ ] Find judge that sentenced Robert to community service
+      - [ ] have him send others (electrician, carpenter) our way
+      - [X] Identify potential electricians
+      - [X] Contact potential electricians
+      - [X] have potential electricians visit
+      - [X] explain requirements to electricians
+      - [ ] receive quote or estimate from electician
+      - [ ] decide whether to involve Metropolitan
+      - [ ] order work
+      - [ ] have work done
+** [4/6] Ventilation - Nathan
+    - [X] Design - Dryer vent pipe is 4"
+    - [X] Buy materials - Jud
+      - [X] 4" elbows 2
+      - [ ] straps
+      - [ ] nails or whatever
+      - [X] Purple PVC Glue 
+    - [X] attach PCV to metal pipe from ceiling using flared end of PVC on hand
+    - [X] attach 4" elbows
+    - [ ] attach straps to hold pipes onto wall
+* Notes
+** Wifi Improvement
+< $300
+** Better Projector
+< $600 (per Cory)
+** Cameras
+- [ ] Identify existing cameras
+- [ ] Identify requirements for cameras out back
+** Front Area Slide Show
+- [X] power
+- [ ] ethernet - Cory
+- [X] order SD card
+- [X] SD card - Nathan
+- [ ] document restart procedures
+** [1/3] Front (Class) Room
+*** Priorities:
+- Noise Abatement - be able to have classes or events in the classroom, and in the auditorium area
+- Expense - Lower is better
+  - [ ] Mark Height - Jud and Cory
+  - [X] Calculate area of room
+  - [ ] Quotes (Cameraon and Wolf)
+    - [ ] Get quotes for dropped ceiling
+    - [ ] get quotes for ceiling with joists
+    - [ ] get quotes for extended walls
+Dimensions
+24' 4" long
+14' 7" wide
+~196" to ceiling
+drywall wall about 10' high (varies)
+Sprinkler head brass rings are 10' from floor
+  - [ ] Double check tools, accessories
+**** Any extra material required to hold the ceiling up?
+**** How to work around ventilation
+- [ ] Cost materials
+**** HD
+100 sq ft grid (need 4) -- $143 @ = 572
+32 sq foot tile (need 12) -- $63.04 @ = 756.48
+**** Lowes
+** Electrical
+Used http://www.homeadvisor.com/
+Angel Electric, LLC 
+arocasio@angelelectricllc.com
+678-799-5437
+* Fix outlets near worcal to light in kitchen tables
+- [ ] get two extension cords
+- [ ] get continuity tester
+- [ ] test all combinations
+- [ ] make diagram showing connectivity
+- [ ] see if wiring is available from admin storage closet
+- [ ] see if wiring is available from ceiling
+* Set up PC for use as specialized Laser Cutter (or CNC mill) PC
+** Status
+*** Tasks
+- [X] identify PC to use
+  - [X] box
+  - [X] keyboard
+  - [X] mouse
+  - [X] monitors
+- [X] install Win XP 32 bit OS
+  - [X] get ISO
+  -- install OS
+    - [X] USB install - OB
+      OR
+    - [X] CD install
+      - [X] burn new ISO - failed
+        - [X] get blank CD - thanks, Scott
+        - [X] burn ISO to CD
+        - [X] install OS using CD - tried, failed
+      OR  
+      - [X] use existing install CD
+        - [X] get existing install CD - Slade
+        - [X] install using CD)
+- [X] install physical parallel port - On the computer provided by Slade
+This might not be required; if we use the Dell Precision 490 brought by Slade, it has a parallel port.
+- [-] install CamBam
+  - [X] Download Software
+  - [X] install software - Stuck here - need internet access to get DotNet 2.0. Ethernet port does not have driver.
+  - [ ] install license 
+  - [X] copy files to Desktop of new computer 
+- [-] install Mach3
+  - [X] Download Software
+  - [X] install software
+  - [ ] configuring Mach3 with the right stepper profiles
+    - [ ] identify steps to configuring Mach3 with the right stepper profiles -- Randy   
+  - [ ] install license
+- [ ] emplace PC
+- [ ] modify rolling cart to accept new computer - Jonathan contacted
+- [ ] test monitor on rolling stand to see if it works with computer provided by Slade
+** Next
+- [ ] Emplace License
+- [ ] identify steps to configuring Mach3 with the right stepper profiles -- Randy   
+General instructions provided by Scott.
+*** Other?
+- [-] Fix Drill Press
+  - [X] Call and order rack - info has been emailed to Nathan 
+  - [ ] receive part
+  - [ ] install
