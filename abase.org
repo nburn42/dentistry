@@ -1,3 +1,4 @@
+
 #+STARTUP: overview
 #+TAGS: FREESIDE(f) T5(o) COMPUTER(c) PROJECT(p) READING(r) DVD(d) 
 #+STARTUP: hidestars
@@ -7,48 +8,25 @@
 * get bike
 * Thorium
 * NOW
+- [ ] get car checked
+- [ ] flush radiator
+- [ ] change radiator fluid
 - [ ] Kevin Wallace - invite to Freeside
 - [ ] Harris - job
 - [ ] DDuck - where to meet to discuss apt
-- [ ] find data resetter
 - [X] paint screwdrivers
   - [X] Green
   - [X] Blue
   - [X] White
   - [X] - Nothing - 
-- [4/7] leather wallet
-  - [X] buy thread
-  - [X] print wallet pattern 
-  - [X] glue pattern to leather
-  - [X] cut leather
-  - [ ] put thread cuts in
-  - [ ] punch holes
-  - [ ] sew
 - [ ] talk with Joseph about classes
-- [9/17] cement mold for jello
-  - [X] figure out how to brace silicone mold
-  - [X] figure depth
-  - [X] make box
-  - [X] seal box edges with tape
-  - [X] pour in sand 
-  - [X] buy cement
-  - [X] mix cement
-  - [X] pour cement
-  - [X] let cure
-  - [ ] re-emplace
-  - [ ] mix cement
-  - [ ] pour cement
-  - [ ] let cure
-  - [ ] pull
-  - [ ] melt paraffin
-  - [ ] heat mold
-  - [ ] coat with paraffin
+- [12/17] cement mold for jello
 - [-] make new one
   - [X] buy white glue
   - [X] glue silicone mold to something flat
   - [X] make wall around it
-  - [ ] pour cement
-  - [ ] screed
+  - [X] pour cement
+  - [X] screed
   - [ ] let cure
   - [ ] turn over
   - [ ] make new box
@@ -58,6 +36,7 @@
   - [ ] screed
   - [ ] let cure
   - [ ] pull
+  - [ ] coat with paraffin
 - [X] draft Thorium letter
 * Better Tape Adapter
 - [X] buy poor adapter
@@ -210,8 +189,8 @@ LFTR Liquid Flouride Thorium Reactors
     - can generate valuable IP
 ** Nathan
 - [ ] contact medical buyers
-- [ ] check
-** Ram 
+- [ ] make check
+** Ram
 * Housing
 - [ ] monitor waiting list
 - [X] contact houses again
@@ -623,6 +602,7 @@ Learn the basics of leatherworking. When you learn how to do this, your life wil
 *** make tool bag
 
 * Car
+** get update based on code
 ** Can Holder
 - [ ] get leather
 - [ ] trace pattern
@@ -633,8 +613,7 @@ Learn the basics of leatherworking. When you learn how to do this, your life wil
 ** Arm Rest
 - [X] reinforce
 - [X] paint with slurry
-- [X] reinstall
-** Seat
+- [X] reinstall** Seat
 ** Coolant
 ** Front Window
 ** Check Engine
@@ -730,7 +709,6 @@ number of cans 20.51
 - [X] gather ingots
 - [X] emplace ABS model in green sand
 - [X] pour on molten aluminum
-- [ ] pull out of sand - Waiting on Darby
 *** model phaser
 - [X] modify model
 - [X] print model
@@ -1915,6 +1893,14 @@ other werenches and pliers
 ** Pay money witnessed by Scott
 - [X] complete
 
+- [7/7] leather wallet
+  - [X] buy thread
+  - [X] print wallet pattern 
+  - [X] glue pattern to leather
+  - [X] cut leather
+  - [X] put thread cuts in
+  - [X] punch holes
+  - [X] sew
 * Fix Knife
 
 
