@@ -1,7 +1,29 @@
 
 #+STARTUP: overview
-#+TAGS: FREESIDE(f) T5(o) COMPUTER(c) PROJECT(p) READING(r) DVD(d) 
+#+TAGS: FREESIDE(f) T5(o) COMPUTER(c) PROJECT(p) READING(r) DVD(d)
 #+STARTUP: hidestars
+* Jennifer K. Howard - Published Papers                              :READING:
+  Associate Professor of Accountancy, California State University Long Beach
+  PhD, University of Houston (2014)
+  Research areas: corporate taxation, tax reform, international tax, intangibles, M&A, financial reporting, XBRL, auditor switching
+** "Shareholders' Perception of Auditor Type and Timing of Auditor Engagement: Evidence from Auditor Ratification"
+   - Journal: Australian Accounting Review
+   - Date: July 2023
+** "In the Nick of Time: Performance-Based Compensation and Proactive Responses to the Tax Cuts and Jobs Act"
+   - Journal: Journal of Management Accounting Research
+   - Date: December 2021
+** "Analysts' Earnings Forecasting Behavior Surrounding Uncertain Regulatory Events: Evidence from the Tax Reform Act of 1986"
+   - Journal: Accounting and Business Research
+   - Date: February 2020
+** "The Effectiveness of Schedule UTP: A Comparison of Multinational and Domestic Firms"
+   - Journal: Advances in Taxation
+   - Date: October 2019
+** "Timing of Auditor Terminations and Client Firm Risk"
+   - Journal: Managerial Auditing Journal
+   - Date: June 2019
+** "The De Minimis Safe Harbor Under the Repair Regulations"
+   - Journal: Journal of Accountancy
+   - Date: May 2014
 * Straylight
 - [ ] Measure size needed for Maggie
 - [ ] get BOM
