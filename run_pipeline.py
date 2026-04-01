@@ -8,11 +8,12 @@ import os
 
 sys.path.insert(0, os.path.dirname(__file__))
 
-from src.synthetic_data import generate_panel
+from src.data_collection import collect_data
 from src.data_cleaning import run_cleaning
 from src.features import run_feature_engineering
 from src.eda import run_eda
 from src.models import run_all_models
+from src.save_results_md import save_results_markdown
 
 
 def main():
@@ -20,9 +21,9 @@ def main():
     print("RESEARCH PIPELINE: Tax Volatility & Credit Ratings")
     print("=" * 70)
 
-    print("\n\n>>> STEP 1: Data Generation (Synthetic Panel)")
+    print("\n\n>>> STEP 1: Data Collection (SEC EDGAR)")
     print("-" * 50)
-    generate_panel(n_firms=400, years=range(2005, 2025))
+    collect_data(n_companies=500, min_year=2005)
 
     print("\n\n>>> STEP 2: Data Cleaning")
     print("-" * 50)
@@ -40,6 +41,10 @@ def main():
     print("-" * 50)
     run_all_models()
 
+    print("\n\n>>> STEP 6: Save Results as Markdown")
+    print("-" * 50)
+    save_results_markdown()
+
     print("\n\n" + "=" * 70)
     print("PIPELINE COMPLETE")
     print("=" * 70)
@@ -47,8 +52,9 @@ def main():
     print("  data/raw/financial_data.csv        - Raw EDGAR data")
     print("  data/processed/cleaned_panel.csv   - Cleaned panel")
     print("  data/processed/analysis_panel.csv  - Panel with features")
-    print("  results/tables/                    - Regression tables")
+    print("  results/tables/                    - Regression tables (CSV)")
     print("  results/figures/                   - Plots and charts")
+    print("  results/pipeline_results.md        - Full results summary")
 
 
 if __name__ == "__main__":
