@@ -137,7 +137,7 @@ def assign_synthetic_ratings(df):
     # Numerical mapping (higher = worse credit)
     rating_num_map = {"AAA": 1, "AA": 2, "A": 3, "BBB": 4, "BB": 5, "B": 6, "CCC": 7}
 
-    df["rating"] = pd.cut(df["credit_score"], bins=bins, labels=labels)
+    df["rating"] = pd.cut(df["credit_score"], bins=bins, labels=labels, ordered=False)
     df["rating"] = df["rating"].astype(str)
     df["rating_num"] = df["rating"].map(rating_num_map)
 
